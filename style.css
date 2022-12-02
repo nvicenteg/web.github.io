@@ -1,0 +1,82 @@
+body{
+        margin: 0;
+        padding: 0;
+        background: url(paisaje.jpg);
+        background-size: cover;
+
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: #eff2f5;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+    
+}
+.contenedor{
+    max-width: 1000px;
+    margin: 200px auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 70px;
+    
+}
+.logo{
+margin-top: 40px;
+width: 280px;
+
+}
+.col1{
+    font-size: 28px;
+    color: #AF3A21;
+
+}
+input{
+
+    display: block;
+    width: 200%;
+    padding: 20px;
+    margin: 10px 0;
+    border: 1px solid #dddfe2;
+    border-radius: 12px;
+
+}
+.iniciar{
+
+    display: block;
+    width: 100%;
+    background-color: aquamarine;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    padding: 16px;
+    text-decoration: none;
+    color: #fff;
+    margin: 20px 0;
+
+}
+hr{
+    margin: 20px 0;
+    border: 1px solid #ddd;
+
+}
+.Nueva{
+    display: block;
+    width: 100%;
+    background-color: aquamarine;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    padding: 16px;
+    text-decoration: none;
+    color: #fff;
+    margin: 20px 0;
+}
+
